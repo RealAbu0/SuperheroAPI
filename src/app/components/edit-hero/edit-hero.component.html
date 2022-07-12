@@ -1,0 +1,41 @@
+<div *ngIf="hero">
+    <h2>{{hero.name}}</h2>
+    <div>
+        <mat-form-field appearance="fill">
+            <mat-label>Input</mat-label>
+            <input matInput [(ngModel)]="hero.name"  placeholder="Name">
+        </mat-form-field>
+    </div>
+    <div>
+        <mat-form-field appearance="fill">
+            <mat-label>Input</mat-label>
+            <input matInput [(ngModel)]="hero.superheroName"  placeholder="SuperheroName">
+        </mat-form-field>
+    </div>
+    <div>
+        <mat-form-field appearance="fill">
+            <mat-label>Input</mat-label>
+            <input matInput [(ngModel)]="hero.city"  placeholder="City">
+        </mat-form-field>
+    </div>
+        
+    <button mat-stroked-button color="accent" (click)="UpdateHero(hero)" *ngIf="hero.superheroID">Save</button>
+    <button mat-stroked-button color="accent" (click)="DeleteHero(hero)" *ngIf="hero.superheroID">Delete</button>
+    <button mat-stroked-button color="accent" (click)="CreateHero(hero)" *ngIf="!hero.superheroID">Create</button>
+
+</div>
+
+
+<!--div>
+    Name:
+    <input [(ngModel)]="hero.Name"  placeholder="Name"/>
+    
+</div>
+<div>
+    Superhero Name:
+    <input [(ngModel)]="hero.SuperheroName"  placeholder="Superhero Name"/>
+</div>
+<div>
+    City:
+    <input [(ngModel)]="hero.City"  placeholder="City"/>
+</div-->
