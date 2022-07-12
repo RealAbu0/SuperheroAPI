@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\SuperheroDapper\bin\Debug\net6.0\SuperheroDapper.deps.json
+C:\Users\Admin\source\repos\SuperheroDapper\bin\Debug\net6.0\SuperheroDapper.dll
+C:\Users\Admin\source\repos\SuperheroDapper\bin\Debug\net6.0\SuperheroDapper.pdb
+C:\Users\Admin\source\repos\SuperheroDapper\obj\Debug\net6.0\SuperheroDapper.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SuperheroDapper\obj\Debug\net6.0\SuperheroDapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SuperheroDapper\obj\Debug\net6.0\SuperheroDapper.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SuperheroDapper\obj\Debug\net6.0\SuperheroDapper.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SuperheroDapper\obj\Debug\net6.0\SuperheroDapper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SuperheroDapper\obj\Debug\net6.0\SuperheroDapper.dll
+C:\Users\Admin\source\repos\SuperheroDapper\obj\Debug\net6.0\refint\SuperheroDapper.dll
+C:\Users\Admin\source\repos\SuperheroDapper\obj\Debug\net6.0\SuperheroDapper.pdb
+C:\Users\Admin\source\repos\SuperheroDapper\obj\Debug\net6.0\ref\SuperheroDapper.dll
